@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4CacylzFaHjMM8/giphy.gif" width="450">
+</p>
+
 <!-- =======================
      CHIP-8 EMULATOR README
      Supersonic Gaming Edition
@@ -9,6 +13,9 @@
 
 <h1 align="center">🎮 CHIP-8 Emulator</h1>
 <h3 align="center">A Retro Virtual Machine — Rebuilt at Supersonic Speed ⚡</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="100%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge">
@@ -159,3 +166,10 @@ Real-time input processing
 
 ⭐ Final Note
 <p align="center"> <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%"> </p> <p align="center"> <b>“From pixels to processors — emulation at supersonic speed.”</b> </p> ```
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%">
+</p>
+
+<p align="center">
+  <b>“Retro hardware. Modern speed. Supersonic execution.”</b>
+</p>
