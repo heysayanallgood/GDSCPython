@@ -65,7 +65,7 @@ This emulator recreates all of that — in software.
 ## ✨ Features
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy2eMXG8hZ0C0o/giphy.gif" width="450">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="500">
 </p>
 
 ✔ Loads and executes CHIP-8 ROMs  
@@ -164,12 +164,3 @@ Game rendering loops
 
 Real-time input processing
 
-⭐ Final Note
-<p align="center"> <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%"> </p> <p align="center"> <b>“From pixels to processors — emulation at supersonic speed.”</b> </p> ```
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%">
-</p>
-
-<p align="center">
-  <b>“Retro hardware. Modern speed. Supersonic execution.”</b>
-</p>
